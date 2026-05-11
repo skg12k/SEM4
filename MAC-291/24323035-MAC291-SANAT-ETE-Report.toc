@@ -1,0 +1,31 @@
+\noindent \textbf {CHAPTER NO.} \hfill \textbf {TITLE} \hfill \textbf {PAGE NO.}\par 
+\noindent \rule {\textwidth }{0.5pt}\par \vspace {0.2cm}
+\contentsline {section}{\centering \Large LIST OF FIGURES}{iii}{section*.2}%
+\contentsline {section}{\tocsection {}{1}{Introduction}}{1}{section.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{The Theorem}}{1}{subsection.1.1}%
+\contentsline {section}{\tocsection {}{2}{Proof 1: Trigonometry}}{1}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Setting up the Geometry}}{1}{subsection.2.1}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{Computing Intermediary Sides}}{1}{subsection.2.2}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Evaluating the Morley Triangle}}{2}{subsection.2.3}%
+\contentsline {section}{\tocsection {}{3}{Proof 2: Complex Numbers}}{2}{section.3}%
+\contentsline {subsection}{\tocsubsection {}{3.1}{Embedding in the Unit Circle}}{2}{subsection.3.1}%
+\contentsline {subsection}{\tocsubsection {}{3.2}{Chord Intersections}}{2}{subsection.3.2}%
+\contentsline {section}{\tocsection {}{4}{Proof 3: Synthetic Proof}}{3}{section.4}%
+\contentsline {subsection}{\tocsubsection {}{4.1}{Defining the Seven Pieces}}{3}{subsection.4.1}%
+\contentsline {subsection}{\tocsubsection {}{4.2}{Sizing the Spoke Triangles}}{3}{subsection.4.2}%
+\contentsline {subsection}{\tocsubsection {}{4.3}{Assembling the Master Triangle}}{3}{subsection.4.3}%
+\contentsline {section}{\tocsection {}{5}{Proof 4: Group Theory Proof}}{4}{section.5}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{The Affine Framework}}{4}{subsection.5.1}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Encoding the Intersections}}{4}{subsection.5.2}%
+\contentsline {subsection}{\tocsubsection {}{5.3}{The Equilateral Extraction}}{4}{subsection.5.3}%
+\contentsline {section}{\tocsection {}{6}{Proof 5: Circle Geometry}}{4}{section.6}%
+\contentsline {subsection}{\tocsubsection {}{6.1}{Construction}}{4}{subsection.6.1}%
+\contentsline {subsection}{\tocsubsection {}{6.2}{Angle Chase}}{4}{subsection.6.2}%
+\contentsline {section}{\tocsection {}{7}{Beyond the Proofs}}{5}{section.7}%
+\contentsline {subsection}{\tocsubsection {}{7.1}{Cardioids and Inversive Geometry}}{5}{subsection.7.1}%
+\contentsline {subsection}{\tocsubsection {}{7.2}{Holonomy}}{5}{subsection.7.2}%
+\contentsline {section}{\tocsection {}{}{References}}{5}{section*.3}%
+\contentsline {section}{\tocsection {Appendix}{A}{MATLAB Source Code for Figures}}{6}{appendix.A}%
+\contentsline {section}{\tocsection {Appendix}{B}{TikZ Source Code for Diagrams}}{9}{appendix.B}%
+\contentsline {subsection}{\tocsubsection {}{B.1}{Trigonometry Proof Diagram}}{9}{lstlisting.2}%
+\contentsline {subsection}{\tocsubsection {}{B.2}{Spoke Triangle Diagram}}{9}{lstlisting.3}%
