@@ -1,1 +1,0 @@
-# 9 point Circle Proof

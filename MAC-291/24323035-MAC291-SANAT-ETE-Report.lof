@@ -1,8 +1,0 @@
-\noindent \textbf {FIGURE NO.} \hfill \textbf {TITLE} \hfill \textbf {PAGE NO.}\par 
-\noindent \rule {\textwidth }{0.5pt}\par \vspace {0.2cm}
-\contentsline {figure}{\numberline {1}{\ignorespaces Geometric setup for the trigonometric proof.}}{1}{figure.1}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Embedding the triangle in the complex unit circle.}}{2}{figure.2}%
-\contentsline {figure}{\numberline {3}{\ignorespaces The seven puzzle pieces for Conway's proof.}}{3}{figure.3}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Sizing the spoke triangle to fit abutting triangles.}}{3}{figure.4}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Assembling the pieces into the master triangle.}}{3}{figure.5}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Auxiliary circles and pentagon construction.}}{4}{figure.6}%
